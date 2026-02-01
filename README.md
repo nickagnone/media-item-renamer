@@ -45,8 +45,18 @@ This Python script helps clean up your movie and TV show folder and file names. 
 - Update audio/channel patterns (e.g., `5.1`, `2.0`) if needed  
 - Can be modified to run recursively through subfolders  
 
----
 
-## Example
+## Cleanup Process Overview
 
-**Before**:
+### Before Cleanup
+This image shows the state of the data **before** cleanup:
+![Before Cleanup](images/before_cleanup.png)
+
+### After Cleanup
+This image shows the state of the data **after** cleanup:
+![After Cleanup](images/after_cleanup.png)
+
+### Rename Results
+This image shows the CSV file highlighting the changes made, with **before and after values**:
+![Rename Result](images/rename_result.png)
+
